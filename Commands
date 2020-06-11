@@ -1,0 +1,10 @@
+linux : Windows
+
+ls  : dir
+grep  : findstr
+rm  : del
+rm -r : deltree
+clear : cls
+
+echo  : echo
+cd  : cd
